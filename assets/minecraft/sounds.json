@@ -1,5 +1,21 @@
 {
-"custom.toilett":{"category": "master","sounds": [{"name": "custom/toilett"}]},
-"custom.batman":{"category": "master","sounds": [{"name": "custom/batman"}]},
-"custom.glumanda":{"category": "master","sounds": [{"name": "custom/glumanda"}]}
+	"custom.toilett": {
+		"category": "master","sounds": [{"name": "custom/toilett"}]
+	},
+	"custom.batman": {
+		"category": "master","sounds": [{"name": "custom/batman"}]
+	},
+	"custom.glumanda": {
+		"category": "master","sounds": [{"name": "custom/glumanda"}]
+	}
+	"record.blocks": {
+		"sounds": [{
+			"name": "records/blocksa",
+			"stream": true
+		},
+		{
+			"name": "records/blocksb",
+			"stream": true
+		}]
+	}
 }
